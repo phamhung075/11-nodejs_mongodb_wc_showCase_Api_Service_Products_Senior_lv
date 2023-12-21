@@ -41,7 +41,7 @@ Revamped Product Controller (`./controllers/product.controller.js`): Features mo
     
 - Change to the directory:
 
-    `cd 11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv
+    `cd 11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv`
     
 - Install dependencies:
  
