@@ -18,13 +18,13 @@ This is a personal project series based on the lessons by @anonystick ([https://
 
 ### Version Junior Upgrade Highlights
 
-Enhanced Product Model (./models/product.model.js): The product schema has been upgraded with additional attributes and validation rules to better represent complex product data.
+Enhanced Product Model (`./models/product.model.js`): The product schema has been upgraded with additional attributes and validation rules to better represent complex product data.
 
-Advanced Product Service (./services/product.service.js): Includes refined business logic and data handling methods, offering a more comprehensive approach to product management.
+Advanced Product Service (`./services/product.service.js`): Includes refined business logic and data handling methods, offering a more comprehensive approach to product management.
 
-Improved Authentication Mechanism (./services/authenticationV2.js): Introduces a more robust and secure authentication system, ensuring better data protection and user management.
+Improved Authentication Mechanism (`./services/authenticationV2.js`): Introduces a more robust and secure authentication system, ensuring better data protection and user management.
 
-Revamped Product Controller (./controllers/product.controller.js): Features more efficient request handling and response generation for product-related operations.
+Revamped Product Controller (`./controllers/product.controller.js`): Features more efficient request handling and response generation for product-related operations.
 ### Version Senior Upgrade Highlights
 
 - **Sophisticated Product Model** (`./models/product.model.js`): Enhanced to handle intricate product attributes, complex validations, and relationships, reflecting real-world e-commerce product complexities.
