@@ -16,6 +16,13 @@ This is a personal project series based on the lessons by @anonystick ([https://
 
 `11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv`  is a senior-level upgrade of our existing Node.js application, aimed at showcasing intricate product management capabilities within a MongoDB framework. This version introduces complex functionalities, sophisticated code design patterns, and enhanced performance optimizations, catering to the skills and challenges at a senior developer level.
 
+
+Version Simple: 
+https://github.com/phamhung075/9-nodejs_mongodb_wc_showCase_API_Product_use_Factory_Pattern
+
+Version level Junior: 
+https://github.com/phamhung075/10-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Junior_lv
+
 ### Version Junior Upgrade Highlights
 
 Enhanced Product Model (`./models/product.model.js`): The product schema has been upgraded with additional attributes and validation rules to better represent complex product data.
@@ -30,7 +37,6 @@ Revamped Product Controller (`./controllers/product.controller.js`): Features mo
 - **Sophisticated Product Model** (`./models/product.model.js`): Enhanced to handle intricate product attributes, complex validations, and relationships, reflecting real-world e-commerce product complexities.
 - **Advanced Product Service** (`./services/product.service.xxx.js`): Incorporates complex business logic, advanced data processing techniques, and performance optimizations for handling large-scale product data.
 - **Robust Product Controller** (`./controllers/product.controller.js`): Upgraded to manage a broader spectrum of product-related operations, with refined error handling and response management strategies.
-
 
 
 ### Installation
