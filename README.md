@@ -14,7 +14,7 @@ This is a personal project series based on the lessons by @anonystick ([https://
 
 ### Introduction
 
-`10-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Junior_lv`  is a senior-level upgrade of our existing Node.js application, aimed at showcasing intricate product management capabilities within a MongoDB framework. This version introduces complex functionalities, sophisticated code design patterns, and enhanced performance optimizations, catering to the skills and challenges at a senior developer level.
+`11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv`  is a senior-level upgrade of our existing Node.js application, aimed at showcasing intricate product management capabilities within a MongoDB framework. This version introduces complex functionalities, sophisticated code design patterns, and enhanced performance optimizations, catering to the skills and challenges at a senior developer level.
 
 ### Version Junior Upgrade Highlights
 
@@ -57,9 +57,8 @@ https://github.com/phamhung075/11-nodejs_mongodb_wc_showCase_Api_Service_use_Fac
 - **Product Routes** (`./routes/product.route.js`): Defines API endpoints for product management activities like creating, reading, updating, and deleting products.
 
 ### Usage
-
-- The application showcases how to structure and organize a product management API using the factory pattern.
-- Demonstrates CRUD operations for products in a MongoDB database, suitable for e-commerce platforms.
+- This version is designed for senior developers, featuring complexities that simulate real-world challenges in product data management.
+- The application now efficiently handles extensive and intricate product operations, making it an ideal reference for advanced Node.js and MongoDB implementations.
 
 ### MongoDB Connection
 
