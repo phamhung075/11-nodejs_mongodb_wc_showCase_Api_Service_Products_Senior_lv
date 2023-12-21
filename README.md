@@ -31,8 +31,7 @@ Revamped Product Controller (./controllers/product.controller.js): Features more
 - **Advanced Product Service** (`./services/product.service.xxx.js`): Incorporates complex business logic, advanced data processing techniques, and performance optimizations for handling large-scale product data.
 - **Robust Product Controller** (`./controllers/product.controller.js`): Upgraded to manage a broader spectrum of product-related operations, with refined error handling and response management strategies.
 
-Version upgrade level Senior: 
-https://github.com/phamhung075/11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv
+
 
 ### Installation
 
